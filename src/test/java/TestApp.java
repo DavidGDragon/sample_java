@@ -1,5 +1,5 @@
 import junit.framework.*;
-import mainiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii.App;
+import main.App;
 
 public class TestApp extends TestCase {
   public void testInsertAndGetData() {
