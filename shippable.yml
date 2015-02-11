@@ -17,5 +17,5 @@ after_success:
 notifications:
    email:
        recipients:
-          - exampleone@org.com
+          - david@shippable.com
           - exampletwo@org.com
