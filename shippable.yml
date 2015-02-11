@@ -1,8 +1,5 @@
 language: java
 
-branches:
-   only:
-      - gradle
    
 jdk:
    - openjdk7
