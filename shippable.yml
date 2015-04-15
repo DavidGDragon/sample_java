@@ -13,6 +13,6 @@ after_success:
 
 notifications:
    email:
-       recipients:
-          - david@shippable.com
+      recipients:
+         - david@shippable.com
       on_success: always
