@@ -12,7 +12,6 @@ after_success:
    - mvn test
 
 notifications:
-   email:
-       recipients:
-          - exampleone@org.com
-          - exampletwo@org.com
+   email: false
+
+cache: true
